@@ -43,7 +43,7 @@ function menuChoices (){
               break;
       
             case "Exit":
-              console.log("Goodbye!")
+              console.log("You have exited the system!")
               db.end();
             }
     });

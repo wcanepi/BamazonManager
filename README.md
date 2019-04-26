@@ -46,3 +46,5 @@ It provides the following features:
 
 ![Screen 2](images/BamManager_6.png "Screen 6")
 
+![Screen 3](images/BamManager_7.png "Screen 7")
+
