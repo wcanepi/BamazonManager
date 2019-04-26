@@ -22,7 +22,7 @@ It provides the following features:
 
 
 
-## How to run BamazonManager
+## How to run BamazonManager (Challenge #2)
 
 ```node bamazonManager.js```
 
@@ -37,7 +37,7 @@ It provides the following features:
 
 ![Screen 5](images/BamManager_5.png "Screen 5")
 
-## How to run BamazonSupervisor
+## How to run BamazonSupervisor (Challenge #3)
 
 ```node bamazonSupervisor.js```
 
